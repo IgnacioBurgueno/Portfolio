@@ -1,15 +1,16 @@
 # Portfolio
 ## Sobre mí
-Mi nombre es Ignacio Burgueño, de 23 años. Estudiante de testing cursando Jovenes a Programar de Ceibal,
-La sección **"Sobre mí"** es un extracto que se incluiremos al principio del Portfolio, para describir quién eres y cuáles son tus principales habilidades y aspiraciones, con el objetivo de capturar la atención de posibles reclutadores que podrían interesarse en ti. Puedes utilizar la misma de tu perfil en [LinkedIn](https://www.linkedin.com/) o tu CV.
+Mi nombre es Ignacio Burgueño, de 23 años. Estudiante de testing cursando Jovenes a Programar de Ceibal, con conocimientos en Testing, Software, IT,
+Competencias Transversales y Customer Service.
+Manejo con facilidad ingles y español.
 
 ## Cursos
-Puedes listar aquí los cursos que creas relebantes destacar en testing y TI. Por ejemplo:
-* **Tester de Software - Jóvenes a Programar (230hs):**
+Tester de Software - Jóvenes a Programar (230hs)
+First Certificate - Dickens English Institute.
 
   Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regresión e informes de prueba.
   
-* **Jira desde cero - Coursera (9hs):**
+
 
   Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban.
   
@@ -18,10 +19,6 @@ Puedes comentar algunas de las herramientas que manejas vinculadas al testing de
 * Testlink
 * Jira
 * MantisBT
-
-## Libros
-Puedes comentar algunos libros que has leído, que suman a tu formación en Testing y TI. Por ejemplo:
-* Introducción a las Pruebas de Sistemas de Información - Federico Toledo
 
 ## Mi trabajo
 Aquí puedes mostrar lo que ha sido tu trabajo como tester, publicando las diferentes entregas del taller, o trabajos de testing que hayas desarrollado por tu cuenta. Por ejemplo:
